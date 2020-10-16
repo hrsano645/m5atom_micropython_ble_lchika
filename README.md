@@ -1,0 +1,2 @@
+# m5atom_micropython_ble_lchika
+MicroPythonを入れたAtomMatrix, AtomLiteを使ってBLE経由でボタンLチカさせる
